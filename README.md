@@ -9,7 +9,6 @@ The main objective is to make Java programming education more accessible, intera
 ✨ Key Features
 
 AI-powered Java programming assistance.
-
 Retrieval-Augmented Generation (RAG).
 PDF-based knowledge retrieval.
 Context-aware question answering.
