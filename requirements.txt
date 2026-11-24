@@ -52,3 +52,5 @@ tiktoken
 
 #Testing and code quality
 streamlit
+
+opencv-python-headless
