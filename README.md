@@ -7,7 +7,9 @@ The project uses Retrieval-Augmented Generation (RAG) to retrieve relevant infor
 The main objective is to make Java programming education more accessible, interactive, and efficient using Artificial Intelligence.
 
 ✨ Key Features
+
 AI-powered Java programming assistance.
+
 Retrieval-Augmented Generation (RAG).
 PDF-based knowledge retrieval.
 Context-aware question answering.
